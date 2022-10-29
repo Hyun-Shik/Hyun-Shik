@@ -1,8 +1,8 @@
 ## 💜 Opa tranquilo, meu nome é <strong>HyunShik ou então Gabriel!</strong>
 
-> Tenho 17 anos e venho estudando o desenvolvimento Front-End.
+> Tenho 17 anos e venho estudando desenvolvimento Front-End.
 
-🔭 Atualmente estou me aprofundando em HTML.
+🔭 Atualmente estou me aprofundando em HTML e CSS
 
 💬 Meu objetivo é no futuro me formar em Engenharia de Software.
 
